@@ -1,0 +1,1 @@
+{"ECG_ID": "48d4e8ce9bb72876e9f5cc98cd52aae3", "win_start_time": "14:01:56", "reviewer_id": [4, 5, 6], "start_time": "", "episodes": [{"onset": 1, "rhythm_name": "AFL", "rhythm_code": 650, "offset": 6000}], "tag": "rev", "source_file": "", "onset_sample": -1}

@@ -1,0 +1,1 @@
+{"ECG_ID": "c1009c76e2fca07103199c6d3f20479a", "win_start_time": "00:00:33", "reviewer_id": 3, "start_time": "", "episodes": [{"onset": 1, "rhythm_name": "BIGEMINY", "rhythm_code": 800, "offset": 6000}], "tag": "rev", "source_file": "", "onset_sample": -1}

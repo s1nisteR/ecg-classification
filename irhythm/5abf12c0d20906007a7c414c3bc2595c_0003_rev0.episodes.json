@@ -1,0 +1,1 @@
+{"ECG_ID": "5abf12c0d20906007a7c414c3bc2595c", "win_start_time": "07:27:10", "reviewer_id": 4, "start_time": "", "episodes": [{"onset": 1, "rhythm_name": "AVB_TYPE2", "rhythm_code": 400, "offset": 6000}], "tag": "rev", "source_file": "", "onset_sample": -1}

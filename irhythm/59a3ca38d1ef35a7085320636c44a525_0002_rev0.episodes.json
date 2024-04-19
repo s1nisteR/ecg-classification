@@ -1,0 +1,1 @@
+{"ECG_ID": "59a3ca38d1ef35a7085320636c44a525", "win_start_time": "05:30:41", "reviewer_id": 1, "start_time": "", "episodes": [{"onset": 1, "rhythm_name": "NOISE", "rhythm_code": 9999, "offset": 6000}], "tag": "rev", "source_file": "", "onset_sample": -1}

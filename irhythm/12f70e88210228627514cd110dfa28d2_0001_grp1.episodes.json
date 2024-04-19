@@ -1,0 +1,1 @@
+{"ECG_ID": "12f70e88210228627514cd110dfa28d2", "win_start_time": "23:36:25", "reviewer_id": [4, 5, 6], "start_time": "", "episodes": [{"onset": 1, "rhythm_name": "TRIGEMINY", "rhythm_code": 900, "offset": 6000}], "tag": "rev", "source_file": "", "onset_sample": -1}

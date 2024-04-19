@@ -1,0 +1,1 @@
+{"ECG_ID": "be7d4575de6ada547e851775d56a91dd", "win_start_time": "15:54:46", "reviewer_id": 1, "start_time": "", "episodes": [{"onset": 1, "rhythm_name": "JUNCTIONAL", "rhythm_code": 4000, "offset": 4993}, {"onset": 4994, "rhythm_name": "NSR", "rhythm_code": 100, "offset": 6000}], "tag": "rev", "source_file": "", "onset_sample": -1}

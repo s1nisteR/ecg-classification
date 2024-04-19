@@ -1,0 +1,1 @@
+{"ECG_ID": "f16dfbd64d61064e681e158eebda625f", "win_start_time": "06:44:54", "reviewer_id": 2, "start_time": "", "episodes": [{"onset": 1, "rhythm_name": "NSR", "rhythm_code": 100, "offset": 618}, {"onset": 619, "rhythm_name": "WENCKEBACH", "rhythm_code": 1999, "offset": 6000}], "tag": "rev", "source_file": "", "onset_sample": -1}

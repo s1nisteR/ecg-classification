@@ -1,0 +1,1 @@
+{"ECG_ID": "cf856fceabd6fa05d74a1ea729992d32", "win_start_time": "21:08:35", "reviewer_id": 9, "start_time": "", "episodes": [{"onset": 1, "rhythm_name": "SUDDEN_BRADY", "rhythm_code": 300, "offset": 6000}], "tag": "rev", "source_file": "", "onset_sample": -1}
